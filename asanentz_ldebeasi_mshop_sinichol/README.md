@@ -21,9 +21,13 @@ Hubway Stops: http://bostonopendata.boston.opendata.arcgis.com/datasets/ee7474e2
 
 MBTA Bus Stops: http://bostonopendata.boston.opendata.arcgis.com/datasets/f1a43ad3c46b4ac89b74cdaba393ccac_4
 
+<<<<<<< Updated upstream
 MBTA Subway Stops: https://www.mbta.com/uploadedfiles/MBTA_GTFS.zip
 
 Income Data Per Capita (This dataset was later updated to add new income data):   https://github.com/Data-Mechanics/course-2016-spr-proj/blob/222e4fd34ad436932b58c44cdf8b31c2e9da27c4/jlam17_mckay678/data/Boston_IncomePerCapita.json
+=======
+
+>>>>>>> Stashed changes
 
 
 ## Files that get data
